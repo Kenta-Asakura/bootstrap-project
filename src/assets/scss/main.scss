@@ -1,10 +1,7 @@
 @import "./abstracts/variables";
+$gray: blue;
 
+body {
+  background-color: $gray;
+}
 
-// body {
-//   background-color: $gray;
-// }
-
-
-@import "~bootstrap/scss/bootstrap";
-// @import "~bootstrap/scss/bootstrap.scss";
