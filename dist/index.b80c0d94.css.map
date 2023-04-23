@@ -1,0 +1,1 @@
+{"mappings":"AAIA","sources":["src/assets/scss/custom.scss"],"sourcesContent":["// Custom variables\n@import \"./abstracts/variables\";\n$gray: gray;\n\nbody {\n  background-color: $gray;\n}\n"],"names":[],"version":3,"file":"index.b80c0d94.css.map","sourceRoot":"/__parcel_source_root/"}

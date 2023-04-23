@@ -1,0 +1,7 @@
+// Custom variables
+@import "./abstracts/variables";
+$gray: gray;
+
+body {
+  background-color: $gray;
+}
