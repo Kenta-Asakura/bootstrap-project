@@ -1,0 +1,16 @@
+.navbar-brand, .nav-link {
+  color: #fff !important;
+}
+
+.header-coffee {
+  height: 100vh;
+  opacity: .9;
+  background-image: url("pexels-juan-pablo-serrano-arenas-894695.d0d20f27.jpg");
+  background-size: cover;
+}
+
+.about {
+  height: 40vh;
+}
+
+/*# sourceMappingURL=index.ec621f8c.css.map */

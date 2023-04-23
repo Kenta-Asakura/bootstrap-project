@@ -1,0 +1,22 @@
+/* navbar */
+.navbar-brand {
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+/* header */
+/* need to center the image when resized to small */
+.header-coffee {
+  background-image: url(/src/assets/images/pexels-juan-pablo-serrano-arenas-894695.jpg);
+  background-size: cover;
+  height: 100vh;
+  opacity: 0.9;
+}
+
+/* about */
+.about {
+  height: 40vh;
+}

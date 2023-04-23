@@ -1,7 +1,5 @@
-// Custom variables
+// Custom bootstrap variables
 @import "./abstracts/variables";
-$gray: gray;
 
-body {
-  background-color: $gray;
-}
+$btn-padding-y: 10rem;
+$btn-color: rgb(165, 83, 42);
