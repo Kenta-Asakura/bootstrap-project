@@ -19,4 +19,11 @@
 /* about */
 .about {
   height: 40vh;
+  /* display: flex;
+  align-items: center; */
+}
+
+.about-icon {
+  height: 100px;
+  width: 100px;
 }

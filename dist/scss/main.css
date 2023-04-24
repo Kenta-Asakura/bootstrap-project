@@ -1,24 +1,17 @@
-/* navbar */
-.navbar-brand {
-  color: white !important;
-}
+/* Error: Can't find stylesheet to import.
+ *   ,
+ * 7 | @import "~bootstrap/scss/functions";
+ *   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ *   '
+ *   src/assets/scss/main.scss 7:9  root stylesheet */
 
-.nav-link {
-  color: white !important;
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Can't find stylesheet to import.\a   \2577 \a 7 \2502  @import \"~bootstrap/scss/functions\";\a   \2502          ^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   src/assets/scss/main.scss 7:9  root stylesheet";
 }
-
-/* header */
-/* need to center the image when resized to small */
-.header-coffee {
-  background-image: url(/src/assets/images/pexels-juan-pablo-serrano-arenas-894695.jpg);
-  background-size: cover;
-  height: 100vh;
-  opacity: 0.9;
-}
-
-/* about */
-.about {
-  height: 40vh;
-}
-
-/*# sourceMappingURL=main.css.map */

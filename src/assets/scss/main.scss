@@ -1,7 +1,18 @@
-@import "/node_modules/bootstrap/scss/bootstrap.scss";
+// @import "/node_modules/bootstrap/scss/bootstrap.scss";
 
-// $main-color: ;
+// Go here to set custom values for Bootstrap vars
+@import "./abstracts/variables";
 
-.bg-body-tertiary {
-  color: black;
-}
+// Import Bootstrap functions, vars and mixins
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+// Go here to run any Sass map amends on Bootstrap Sass maps
+@import "./abstracts/map-amends";
+
+// Go here to amend or set custom utilities using the Bootstrap API
+// @import './utilities/bootstrap-api-utilities';
+
+// Bootstrap main import
+@import "~bootstrap/scss/bootstrap";

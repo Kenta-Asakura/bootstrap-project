@@ -1,12 +1,34 @@
-6358
-71/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.html1682050476604613500 0
-78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e5ac7667.js1682050476604613500 0
+6401
+94/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/bootstrap-project.59712999.js.map1682225479253582100 0
+71/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.html1682316200789662400 0
+84/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/coffee-cup.0d5c65eb.png1682316200859662400 0
+78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e5ac7667.js1682316200949662400 0
+132/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/ka-low-resolution-logo-color-on-transparent-background (1).649bd41e.png1682226771003582100 0
+82/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.4f492e9b.js.map1682316200729662400 0
+83/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.15d68e64.css.map1682226714163582100 0
 64/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/css1682041345634486900 1
-82/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e5ac7667.js.map1682050476624613500 0
-60/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist1682050476624613500 1
-70/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/index.html1682046267292835300 0
-81/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/abstracts1682047486912835300 1
-66/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets1682044046681195800 1
+83/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.b80c0d94.css.map1682311739695102500 0
+82/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e5ac7667.js.map1682316200959662400 0
+78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/scss/main.css.map1682312700825102500 0
+80/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/scss/custom.css.map1682311733575102500 0
+79/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e5c07b6f.css1682132533505492300 0
+79/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.15d68e64.css1682226714163582100 0
+83/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e5c07b6f.css.map1682132533535492300 0
+78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.4f492e9b.js1682316200719662400 0
+83/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.ec621f8c.css.map1682316200729662400 0
+86/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/coffee-beans.e7242a85.png1682316200869662400 0
+60/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist1682316201059662400 1
+70/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/index.html1682316162499662400 0
+117/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-juan-pablo-serrano-arenas-894695.jpg1682234758083301500 0
+108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-anna-tarazevich-4927142.jpg1682234756073301500 0
+100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/about-icons/coffee-cup.png1682303376773413200 0
+102/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/about-icons/coffee-beans.png1682303376553413200 0
+104/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-andrew-neel-4264048.jpg1682234755743301500 0
+108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-dmitry-zvolskiy-2199190.jpg1682234757393301500 0
+98/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/abstracts/_map-amends.scss1682314212495102500 0
+81/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/abstracts1682312408315102500 1
+80/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/main.css1682304905993413200 0
+66/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets1682223948065626600 1
 73/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/package-lock.json1682045870202835300 0
 91/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/resolve-from/readme.md1682043412301195800 0
 94/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/resolve-from/package.json1682043411851195800 0
@@ -97,6 +119,7 @@
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/MW.js1682043419871195800 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/MQ.js1682043419841195800 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/SL.js1682043420111195800 0
+97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-lukas-942802.jpg1682234758613301500 0
 86/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/dist1682043420131195800 1
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/DO.js1682043418991195800 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/BS.js1682043416701195800 0
@@ -226,6 +249,7 @@
 114/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/getrandomvalues.js1682043419361195800 0
 110/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/font-smooth.js1682043419291195800 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/json.js1682043419661195800 0
+100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/about-icons/best-price.png1682303376363413200 0
 111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/currentcolor.js1682043418811195800 0
 105/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/stream.js1682043420131195800 0
 108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/autofocus.js1682043415441195800 0
@@ -400,6 +424,7 @@
 113/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/css-page-break.js1682043418381195800 0
 112/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/online-status.js1682043419941195800 0
 116/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/template-literals.js1682043420161195800 0
+78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e73767f9.js1682132533505492300 0
 114/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/async-clipboard.js1682043414751195800 0
 105/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/tls1-3.js1682043420181195800 0
 117/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/orientation-sensor.js1682043419951195800 0
@@ -823,7 +848,7 @@
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/utils/test/DefaultMap.test.js1682043415791195800 0
 120/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/lib/lexer/match-graph.js1682043419161195800 0
 141/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/lexer/prepare-tokens.js1682043418411195800 0
-104/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-reboot.css1681971023640960300 0
+104/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-reboot.css1682248474573592000 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/NZ.js1682043419921195800 0
 112/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-svg/lib/dependencies.js1682043413481195800 0
 137/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/minifyStyles.js1682043416801195800 0
@@ -896,6 +921,7 @@
 148/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Declaration.js1682043417481195800 0
 116/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-json/lib/JSONTransformer.js1682043413791195800 0
 121/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/lmdb/node_modules/node-addon-api/tools/conversion.js1682043416031195800 0
+95/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/about-icons/award.png1682303376133413200 0
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-json/package.json1682043413931195800 0
 89/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/json5/lib/parse.d.ts1682043414101195800 0
 113/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/workers/src/process/ProcessWorker.js1682043414271195800 0
@@ -1051,6 +1077,7 @@
 127/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/package-manager/test/fixtures/has-foo/package.json1682043417251195800 0
 126/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/cjs/syntax/node/IdSelector.cjs1682043417241195800 0
 102/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/source-map/dist/types1682043413331195800 1
+99/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-pixabay-266755.jpg1682234758923301500 0
 130/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/core/test/fixtures/common-targets-ignore/package.json1682043419151195800 0
 143/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/package-manager/test/fixtures/has-a-not-yet-installed/package.json1682043417171195800 0
 132/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/package-manager/test/fixtures/packages/foo-2.0/index.js1682043416091195800 0
@@ -1244,6 +1271,7 @@
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/reporter-cli/src/logLevels.js1682043415961195800 0
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/modifiers/arrow.js1681898785878342900 0
 109/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/reporter-cli/src/bundleReport.js1682043415121195800 0
+111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-viktoria-alipatova-2074130.jpg1682234759463301500 0
 91/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/lightningcss/README.md1682043413781195800 0
 101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/packager-js/src/utils.js1682043416001195800 0
 130/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/scope1682043418661195800 1
@@ -1414,7 +1442,7 @@
 105/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/cjs/lexer1682043418131195800 1
 138/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/procedure.d.ts1682043416501195800 0
 95/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/workers/src/bus.js1682043413121195800 0
-81/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/main.scss1682050463274613500 0
+81/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/main.scss1682316188479662400 0
 88/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/immutable/README.md1682040853764486900 0
 101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/packager-js/src/index.js1682043415691195800 0
 96/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/plugin/package.json1682043413351195800 0
@@ -1690,6 +1718,7 @@
 128/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/cjs/syntax/node/SelectorList.cjs1682043418001195800 0
 120/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_stat.c1682043416201195800 0
 119/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Url.cjs1682043418181195800 0
+90/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/bootstrap-project.59712999.js1682225479243582100 0
 109/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/lib/replace/property/font-weight.js1682043417131195800 0
 92/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/dist/esm1681898786038342900 1
 143/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/MediaQuery.js1682043418241195800 0
@@ -1887,7 +1916,7 @@
 120/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/workers/test/integration/workerfarm/echo.js1682043413671195800 0
 117/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-babel/lib/babelErrorUtils.js1682043414161195800 0
 85/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/parcel/README.md1682043415111195800 0
-102/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-grid.css1681971023640960300 0
+102/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-grid.css1682248474573592000 0
 98/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@lezer/lr/dist/constants.d.ts1682043413671195800 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/GE.js1682043419351195800 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/package-manager/src/Npm.js1682043416861195800 0
@@ -2155,7 +2184,7 @@
 104/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/lib/replace/property/border.js1682043416151195800 0
 110/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/cjs/syntax/node/TypeSelector.cjs1682043417691195800 0
 94/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/markdown-ansi/lib1682043412821195800 1
-97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/abstracts/_variables.scss1682050453494613500 0
+97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/abstracts/_variables.scss1682316619459662400 0
 105/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/dist/umd/enums.min.js1681898785658342900 0
 110/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/source-map-js/lib/source-map-generator.js1682040853664486900 0
 83/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/parcel/LICENSE1682043414371195800 0
@@ -2167,6 +2196,7 @@
 111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/rel-noopener.js1682043420051195800 0
 111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/lib/tokenizer/OffsetToLocation.js1682043419071195800 0
 78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/path-type1682043412311195800 1
+112/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-chevanon-photography-302896.jpg1682234756563301500 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/lib/syntax/atrule/nest.js1682043419061195800 0
 102/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-image/native.js1682043415431195800 0
 101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/cjs/tokenizer/types.cjs1682043417681195800 0
@@ -2353,6 +2383,7 @@
 144/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/property/background.js1682043415921195800 0
 146/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias/browser.js1682043414361195800 0
 98/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/packager-html/LICENSE1682043414011195800 0
+85/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/about-icons1682303376683413200 1
 75/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/srcset1682043412671195800 1
 78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@mischnic1682043410021195800 1
 134/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/create.js1682043416691195800 0
@@ -2415,7 +2446,7 @@
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-babel/lib/flow.js1682043414591195800 0
 114/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/matchesselector.js1682043419761195800 0
 118/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/entities/lib/esm/index.js1682043416001195800 0
-77/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/js/main.js1682044052581195800 0
+77/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/js/main.js1682233918983301500 0
 102/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/weak-lru-cache/tests/benchmark.js1682043412201195800 0
 91/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/picomatch/package.json1682040853574486900 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/terser/lib/compress/drop-unused.js1682043416541195800 0
@@ -2459,7 +2490,7 @@
 104/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/cjs/syntax/scope/index.cjs1682043416781195800 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/NA.js1682043419871195800 0
 97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/node-addon-api/noexcept.gypi1682043412661195800 0
-107/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-utilities.css1681971023640960300 0
+107/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-utilities.css1682248474573592000 0
 126/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/svgo-node.js1682043417561195800 0
 99/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@babel/code-frame/package.json1682043412581195800 0
 156/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-bad-engines/index.js1682043418081195800 0
@@ -2629,9 +2660,9 @@
 86/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/terser/lib/ast.js1682043413311195800 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/apng.js1682043414311195800 0
 111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/cjs/syntax/node/AtrulePrelude.cjs1682043412701195800 0
-97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap.css1681971023640960300 0
+97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap.css1682248474573592000 0
 119/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/dist/esm/dom-utils/getLayoutRect.js1681898786008342900 0
-106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-grid.css.map1681971023640960300 0
+106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-grid.css.map1682248474573592000 0
 95/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@swc/helpers/src/index.mjs1682043417931195800 0
 119/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/dom-utils/getLayoutRect.js.flow1681898785788342900 0
 94/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/sass/types/value/map.d.ts1682040853994486900 0
@@ -2737,6 +2768,7 @@
 102/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/workers/src/WorkerFarm.js1682043415541195800 0
 97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/ordered-binary/tests/test.js1682043412781195800 0
 92/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/terser/lib/transform.js1682043417701195800 0
+79/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/scss/style.css.map1682226705173582100 0
 117/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/css3-cursors-newer.js1682043418771195800 0
 110/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/dist/esm/modifiers/flip.js1681898786028342900 0
 81/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/is-json/test1682043412371195800 1
@@ -2766,7 +2798,7 @@
 107/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/lib/generator/token-before.js1682043419201195800 0
 109/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/dom-serializer/lib/foreignNames.d.ts.map1682043412951195800 0
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/lib/syntax/scope/selector.js1682043419151195800 0
-79/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.4717fcfd.css1682050476624613500 0
+79/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.4717fcfd.css1682316200719662400 0
 116/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/namevalue-storage.js1682043419881195800 0
 87/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/msgpackr/README.md1682043417341195800 0
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/dataset.js1682043418881195800 0
@@ -2974,6 +3006,7 @@
 98/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-css/LICENSE1682043413841195800 0
 121/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js1682043417981195800 0
 137/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/parser/index.js1682043418031195800 0
+136/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/ka-low-resolution-logo-color-on-transparent-background (1).png1682223979795626600 0
 117/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/fs-search/fs-search.linux-arm64-gnu.node1682043416761195800 0
 95/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/htmlnano/docs/package.json1682043416601195800 0
 105/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/lib/syntax/scope/default.js1682043418661195800 0
@@ -3341,6 +3374,7 @@
 89/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/browserslist/node.js1682043413111195800 0
 138/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/entities/lib/generated/decode-data-xml.js.map1682043416361195800 0
 99/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/core/src/Dependency.js1682043417681195800 0
+74/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/scss/main.css1682316619519662400 0
 142/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/lexer/match-graph.js1682043418201195800 0
 82/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/escalade/sync1682043412461195800 1
 104/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/regions/alt-ww.js1682043414061195800 0
@@ -3413,6 +3447,7 @@
 110/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/typedarrays.js1682043420201195800 0
 99/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/cache/lib/LMDBCache.js1682043413591195800 0
 85/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/cjs/replace1682043415311195800 1
+79/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.b80c0d94.css1682311739685102500 0
 116/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/dist/css/bootstrap-reboot.rtl.min.css1681898785628342900 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-css/LICENSE1682043413601195800 0
 101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/dist/css/bootstrap.css1681898785718342900 0
@@ -3444,7 +3479,7 @@
 97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/workers/lib/index.js1682043413791195800 0
 93/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/buffer-from/package.json1682043411531195800 0
 123/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/parser.js1682043416851195800 0
-111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-utilities.css.map1681971023640960300 0
+111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-utilities.css.map1682248474573592000 0
 78/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/lmdb/dict1682043418851195800 1
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/dist/js/bootstrap.bundle.js1681898785878342900 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/graph/src/AdjacencyList.js1682043413791195800 0
@@ -3467,7 +3502,7 @@
 86/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/picomatch/LICENSE1682040853144486900 0
 107/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/cjs/syntax/node/Condition.cjs1682043413651195800 0
 108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/js/dist/util/sanitizer.js.map1681898786268342900 0
-108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-reboot.css.map1681971023640960300 0
+108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap-reboot.css.map1682248474573592000 0
 134/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.0/index.js1682043416271195800 0
 101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_transitions.scss1681898786368342900 0
 96/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_tables.scss1681898786358342900 0
@@ -3514,6 +3549,7 @@
 77/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/domutils1682043413271195800 1
 96/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/workers/lib/threads1682043414681195800 1
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/xxhash-wasm/cjs/xxhash-wasm.js.map1682043413051195800 0
+113/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/pexels-juan-pablo-serrano-arenas-894695.d0d20f27.jpg1682316201059662400 0
 116/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-image/src/validateConfig.js1682043414361195800 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/msgpackr/dist/index-no-eval.min.js1682043413591195800 0
 122/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@babel/highlight/node_modules/supports-color/index.js1682043414921195800 0
@@ -3563,7 +3599,7 @@
 98/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_spinners.scss1681898786358342900 0
 94/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_grid.scss1681898786328342900 0
 106/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/package-manager/test/fixtures1682043417121195800 1
-99/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_variables.scss1681898786378342900 0
+99/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_variables.scss1682248468273592000 0
 98/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_carousel.scss1681898786298342900 0
 108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/lib/lexer/generic-an-plus-b.js1682043418751195800 0
 94/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/_card.scss1681898786298342900 0
@@ -3910,6 +3946,7 @@
 114/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/hash/parcel-hash.linux-arm64-gnu.node1682043416911195800 0
 126/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/cjs/restructure/prepare/createDeclarationIndexer.cjs1682043413751195800 0
 98/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@lezer/common/dist/parse.d.ts1682043413441195800 0
+111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images/pexels-viktoria-alipatova-2668498.jpg1682234759763301500 0
 108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-tree/cjs/syntax/atrule/supports.cjs1682043417571195800 0
 113/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@babel/highlight/node_modules/chalk/index.js1682043414841195800 0
 125/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/lib/syntax/node/MediaQuery.js1682043419181195800 0
@@ -3924,6 +3961,7 @@
 119/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/dist/css/bootstrap-utilities.rtl.css.map1681898786098342900 0
 118/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/lib/syntax/node/Nth.js1682043419201195800 0
 134/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/replace/color.js1682043416021195800 0
+79/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.ec621f8c.css1682316200719662400 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/js/dist/util/backdrop.js1681898785828342900 0
 120/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/lib/syntax/node/index.js1682043419091195800 0
 95/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/utility-types/CHANGELOG.md1682043413141195800 0
@@ -4751,7 +4789,7 @@
 97/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/transformer-svg/test1682043413771195800 1
 126/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/csso/node_modules/css-tree/lib/syntax/atrule/font-face.js1682043418961195800 0
 96/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/reporter-dev-server1682043416991195800 1
-101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap.css.map1681971023640960300 0
+101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/bootstrap/scss/bootstrap.css.map1682248474573592000 0
 89/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/posthtml-render/dist1682043412961195800 1
 113/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/reporter-dev-server/src/HMRServer.js1682043415401195800 0
 118/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/reporter-dev-server/src/ServerReporter.js1682043416991195800 0
@@ -4814,6 +4852,7 @@
 108/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/svg-fonts.js1682043420141195800 0
 89/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@babel/highlight/lib1682043411831195800 1
 133/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/data/patch.json1682043418751195800 0
+99/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss/node_modules.code-workspace1682086690920776000 0
 110/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/css-nesting.js1682043418321195800 0
 111/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/modifiers/arrow.js.flow1681898785878342900 0
 114/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/background-sync.js1682043415821195800 0
@@ -5041,7 +5080,7 @@
 105/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/watcher/src/PromiseRunner.hh1682043414681195800 0
 115/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@swc/helpers/src/_class_private_field_init.mjs1682043417021195800 0
 144/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeScriptElement.js1682043417331195800 0
-83/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.4717fcfd.css.map1682050476624613500 0
+83/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.4717fcfd.css.map1682316200729662400 0
 136/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeTitle.js1682043417371195800 0
 137/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/dom-serializer/lib/esm/foreignNames.d.ts.map1682043415371195800 0
 142/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeHiddenElems.js1682043417231195800 0
@@ -5602,6 +5641,7 @@
 125/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/trace-mapping/dist/types/strip-filename.d.ts1682043413421195800 0
 118/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/trace-mapping/dist/types/resolve.d.ts1682043413331195800 0
 120/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/trace-mapping/dist/types/by-source.d.ts1682043413301195800 0
+82/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/index.e73767f9.js.map1682132533525492300 0
 92/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/resolve-uri1682043412291195800 1
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/resolve-uri/LICENSE1682043411401195800 0
 120/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/resolve-uri/dist/types/resolve-uri.d.ts1682043412771195800 0
@@ -5801,6 +5841,7 @@
 94/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/svgo/plugins/sortAttrs.js1682043416011195800 0
 110/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/svgo/plugins/removeUnknownsAndDefaults.js1682043415801195800 0
 100/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/svgo/plugins/removeEmptyText.js1682043415491195800 0
+73/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/images1682302944283413200 1
 120/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/dom-utils/isTableElement.js.flow1681898785868342900 0
 101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/svgo/plugins/removeEmptyAttrs.js1682043415441195800 0
 123/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/mediacapture-fromelement.js1682043419791195800 0
@@ -5953,6 +5994,7 @@
 116/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/modifiers/computeStyles.d.ts1681898785888342900 0
 105/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/core/src/loadParcelPlugin.js1682043418221195800 0
 103/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/createPopper.js1681898785528342900 0
+65/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/scss1682311823745102500 1
 121/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/element-scroll-methods.js1682043419091195800 0
 101/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@jridgewell/set-array/dist/types1682043412361195800 1
 125/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/entities/lib/decode_codepoint.js1682043414651195800 0
@@ -5997,7 +6039,7 @@
 134/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/entities/lib/generated/encode-html.js.map1682043416841195800 0
 140/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeEditorsNSData.js1682043417131195800 0
 107/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/utils/debounce.d.ts1681898785918342900 0
-71/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss1682047473972835300 1
+71/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/src/assets/scss1682311830535102500 1
 115/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/utils/rectToClientRect.d.ts1681898785968342900 0
 112/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@parcel/package-manager/src/NodeResolver.js1682043416821195800 0
 113/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/@popperjs/core/lib/utils/getBasePlacement.js1681898785938342900 0
@@ -6160,6 +6202,7 @@
 129/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/domutils/lib/esm/manipulation.js.map1682043416231195800 0
 117/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/caniuse-lite/data/features/picture-in-picture.js1682043419981195800 0
 126/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/domutils/lib/esm/traversal.js.map1682043416691195800 0
+84/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/dist/best-price.94a71163.png1682316200589662400 0
 118/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/domutils/lib/esm/feeds.js1682043414691195800 0
 122/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/domutils/lib/esm/feeds.js.map1682043415841195800 0
 124/home/asakurakenta/code/Kenta-Asakura/bootstrap-project/node_modules/css-select/node_modules/domutils/lib/esm/index.d.ts.map1682043415971195800 0
