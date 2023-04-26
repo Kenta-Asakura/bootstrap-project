@@ -18,12 +18,13 @@
 
 /* about */
 .about {
-  height: 40vh;
+  height: 50vh;
   /* display: flex;
   align-items: center; */
 }
 
-.about-icon {
+
+/* .about-icon {
   height: 100px;
   width: 100px;
-}
+} */
