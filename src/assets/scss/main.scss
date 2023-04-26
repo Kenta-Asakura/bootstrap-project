@@ -4,15 +4,22 @@
 @import "./abstracts/variables";
 
 // Import Bootstrap functions, vars and mixins
+@import "/node_modules/bootstrap/scss/bootstrap";
+
 @import "~bootstrap/scss/functions";
 @import "~bootstrap/scss/variables";
+// @import "/node_modules/bootstrap/scss/maps";
+// @import "~bootstrap/scss/maps";
 @import "~bootstrap/scss/mixins";
+
+// @import "~bootstrap/scss/utilities";
 
 // Go here to run any Sass map amends on Bootstrap Sass maps
 @import "./abstracts/map-amends";
 
 // Go here to amend or set custom utilities using the Bootstrap API
-// @import './utilities/bootstrap-api-utilities';
+@import './utilities/bootstrap-api-utilities';
 
 // Bootstrap main import
+// @import "/node_modules/bootstrap/scss/bootstrap.scss";
 @import "~bootstrap/scss/bootstrap";

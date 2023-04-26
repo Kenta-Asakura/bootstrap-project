@@ -557,6 +557,7 @@ function hmrAccept(bundle, id) {
 }
 
 },{}],"aitAD":[function(require,module,exports) {
+// import 'bootstrap';
 
 },{}]},["4PWRH","aitAD"], "aitAD", "parcelRequire5914")
 

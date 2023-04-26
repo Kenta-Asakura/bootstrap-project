@@ -1,0 +1,18 @@
+@import '~bootstrap/scss/utilities';
+
+$utilities: map-merge(
+  $utilities,
+  (
+    "width": (
+    property: width,
+      values: (
+        25: 25%,
+        35: 35%,
+        50: 50%,
+        75: 75%,
+        100: 100%,
+        auto: auto
+      )
+    )
+  )
+)

@@ -1,6 +1,9 @@
 // Customize bootstrap default themes
 $custom-colors: (
-  "brown": $brown
+  "brown": $brown,
+  "cream": $cream
 );
 
+
 $theme-colors: map-merge($theme-colors, $custom-colors);
+// $theme-colors-text: map-merge($theme-colors-text, $custom-colors);

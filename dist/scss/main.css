@@ -1,7 +1,7 @@
 /* Error: Can't find stylesheet to import.
  *   ,
- * 7 | @import "~bootstrap/scss/functions";
- *   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ * 7 | @import "/node_modules/bootstrap/scss/bootstrap";
+ *   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  *   '
  *   src/assets/scss/main.scss 7:9  root stylesheet */
 
@@ -13,5 +13,5 @@ body::before {
   padding: 1em;
   margin-bottom: 1em;
   border-bottom: 2px solid black;
-  content: "Error: Can't find stylesheet to import.\a   \2577 \a 7 \2502  @import \"~bootstrap/scss/functions\";\a   \2502          ^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   src/assets/scss/main.scss 7:9  root stylesheet";
+  content: "Error: Can't find stylesheet to import.\a   \2577 \a 7 \2502  @import \"/node_modules/bootstrap/scss/bootstrap\";\a   \2502          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   src/assets/scss/main.scss 7:9  root stylesheet";
 }
