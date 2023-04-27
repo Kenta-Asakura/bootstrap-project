@@ -10,7 +10,13 @@
 }
 
 .about {
-  height: 50vh;
+  height: 40vh;
+}
+
+.about-image {
+  object-fit: cover;
+  max-height: 500px;
+  width: 100%;
 }
 
 /*# sourceMappingURL=index.ec621f8c.css.map */
