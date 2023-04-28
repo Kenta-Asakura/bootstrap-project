@@ -13,9 +13,10 @@
   height: 40vh;
 }
 
-.about-icon {
-  height: 100px;
-  width: 100px;
+.about-image {
+  object-fit: cover;
+  max-height: 500px;
+  width: 100%;
 }
 
 /*# sourceMappingURL=index.ec621f8c.css.map */
