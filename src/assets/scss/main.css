@@ -17,19 +17,13 @@
 }
 
 /* about */
-.about {
-  height: 40vh;
-  /* display: flex;
-  align-items: center; */
-}
-
 .about-image {
   object-fit: cover;
-  max-height: 500px;
+  max-height: 400px;
   width: 100%;
 }
 
-/* .about-icon {
+.about-icon {
   height: 100px;
   width: 100px;
-} */
+}

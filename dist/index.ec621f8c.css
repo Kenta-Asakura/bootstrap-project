@@ -9,14 +9,15 @@
   background-size: cover;
 }
 
-.about {
-  height: 40vh;
-}
-
 .about-image {
   object-fit: cover;
-  max-height: 500px;
+  max-height: 400px;
   width: 100%;
+}
+
+.about-icon {
+  height: 100px;
+  width: 100px;
 }
 
 /*# sourceMappingURL=index.ec621f8c.css.map */
