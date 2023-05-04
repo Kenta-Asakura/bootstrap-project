@@ -1,17 +1,43 @@
-/* Error: Can't find stylesheet to import.
- *   ,
- * 7 | @import "/node_modules/bootstrap/scss/bootstrap";
- *   |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- *   '
- *   src/assets/scss/main.scss 7:9  root stylesheet */
-
-body::before {
-  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
-      "Droid Sans Mono", monospace, monospace;
-  white-space: pre;
-  display: block;
-  padding: 1em;
-  margin-bottom: 1em;
-  border-bottom: 2px solid black;
-  content: "Error: Can't find stylesheet to import.\a   \2577 \a 7 \2502  @import \"/node_modules/bootstrap/scss/bootstrap\";\a   \2502          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a   \2575 \a   src/assets/scss/main.scss 7:9  root stylesheet";
+/* navbar */
+.navbar-brand {
+  color: white !important;
 }
+
+.nav-link {
+  color: white !important;
+}
+
+/* .navbar-toggler {
+  color: white;
+} */
+.navbar.fixed-top {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.navbar.scrolled {
+  background-color: #87341c;
+  /* border-b */
+}
+
+/* header */
+/* need to center the image when resized to small */
+.header-coffee {
+  background-image: url(/src/assets/images/pexels-juan-pablo-serrano-arenas-894695.jpg);
+  background-size: cover;
+  height: 100vh;
+  opacity: 0.9;
+}
+
+/* about */
+.about-image {
+  object-fit: cover;
+  max-height: 400px;
+  width: 100%;
+}
+
+.about-icon {
+  height: 80px;
+  width: 80px;
+}
+
+/*# sourceMappingURL=main.css.map */
