@@ -22,6 +22,10 @@
 .navbar.scrolled {
   background-color: #87341c;
 }
+
+.hide {
+  display: none;
+}
 /* end of navbar */
 
 /* header */

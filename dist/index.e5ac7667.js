@@ -574,6 +574,14 @@ window.addEventListener("scroll", ()=>{
         navbar.classList.add("border-bottom");
     }
 });
+// navbar toggler menu disappear when link clicked
+const togglerMenu = document.querySelector(".navbar-collapse");
+const togglerMenuLinks = document.querySelectorAll(".nav-link");
+togglerMenuLinks.forEach((link)=>{
+    link.addEventListener("click", ()=>{
+        togglerMenu.classList.remove("show");
+    });
+});
 
 },{}]},["4PWRH","aitAD"], "aitAD", "parcelRequire5914")
 
