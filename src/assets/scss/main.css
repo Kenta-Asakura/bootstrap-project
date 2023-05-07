@@ -60,3 +60,10 @@
   height: 80px;
   width: 80px;
 }
+
+/* footer */
+footer {
+  background-image: url('/src/assets/images/footer/pexels-adam-lukac-773958.jpg');
+  background-size: cover;
+}
+/* footer */

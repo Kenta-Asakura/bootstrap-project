@@ -28,3 +28,4 @@ togglerMenuLinks.forEach(link => {
     togglerMenu.classList.remove('show');
   });
 });
+
