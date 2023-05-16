@@ -29,14 +29,4 @@ togglerMenuLinks.forEach(link => {
   });
 });
 
-function birdsInWeek(birdsPerDay, week) {
-  const daysPerWeek = 7;
-  const startDay = (week - 1) * daysPerWeek;
-  const lastDay = startDay + daysPerWeek;
 
- let total = 0;
- for (let i = startDay; i < lastDay; i++) {
-  total += birdsPerDay[i];
- }
- return total;
-}
