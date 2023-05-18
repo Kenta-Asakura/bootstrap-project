@@ -1,4 +1,4 @@
-/* navbar */
+/* strat of navbar */
 .navbar-brand {
   color: white !important;
 }
@@ -28,7 +28,7 @@
 }
 /* end of navbar */
 
-/* header */
+/* start of header */
 /* need to center the image when resized to small */
 .header-coffee {
   /* z-index: 1; */
@@ -48,8 +48,9 @@
   z-index: -1;
   opacity: 0.9;
 }
+/* end of header */
 
-/* about */
+/* start of about */
 .about-image {
   object-fit: cover;
   max-height: 400px;
@@ -60,10 +61,19 @@
   height: 80px;
   width: 80px;
 }
+/* end of about */
 
-/* footer */
+/* strast of footer */
 footer {
   background-image: url('/src/assets/images/footer/pexels-lukas-942802.jpg');
+  /* background-repeat: no-repeat; */
   background-size: contain;
 }
-/* footer */
+
+@media screen and (max-width: 767px) {
+  footer {
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+}
+/* end of footer */

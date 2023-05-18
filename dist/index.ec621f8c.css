@@ -54,4 +54,11 @@ footer {
   background-size: contain;
 }
 
+@media screen and (width <= 767px) {
+  footer {
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+}
+
 /*# sourceMappingURL=index.ec621f8c.css.map */
