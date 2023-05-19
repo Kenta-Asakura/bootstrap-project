@@ -63,10 +63,9 @@
 }
 /* end of about */
 
-/* strast of footer */
+/* start of footer */
 footer {
-  background-image: url('/src/assets/images/footer/pexels-lukas-942802.jpg');
-  /* background-repeat: no-repeat; */
+  background-image: url('/src/assets/images/footer/coffee-footer.jpg');
   background-size: contain;
 }
 
